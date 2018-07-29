@@ -1,0 +1,28 @@
+NAME
+        save files - string 
+SYNOPSIS
+        save [OPTION]... [FILE|STRING]...
+DESCRIPTION
+        It's always good to remember a command or the future.
+
+        -f files      save file(s)
+
+        -d      add timestamp to the saved filename; It alwayed by default
+
+        -s [n]      show the n last line of the current saved file, all line by default.
+
+        -ff [session_name]        create a new session: the new strings saved will be in another file.
+
+
+
+
+EXAMPLES
+    Some examples of common usage.
+SEE ALSO
+    A list of related commands or functions.
+BUGS
+    List known bugs.
+AUTHOR
+   Specify your contact information.
+COPYRIGHT
+    Specify your copyright information.
